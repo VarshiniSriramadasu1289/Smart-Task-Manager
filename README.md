@@ -2,6 +2,9 @@
 
 A modern task manager built with React, TypeScript, Vite, and Tailwind CSS.
 
+## Live Demo
+https://smart-task-manager-tau-two.vercel.app/
+
 ## Features
 
 - Add, edit, and delete tasks.
